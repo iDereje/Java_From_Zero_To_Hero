@@ -10,12 +10,11 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
         public ChromeDriver  seleniumInit(String url){
             System.out.println("Starting...");
-            ChromeOptions options = new ChromeOptions();
+            ChromeOptions option = new ChromeOptions();
+            option.addArguments("--remote-allow-origins=*");
 
-            options.addArguments("--start-maximized");
-            options.setAcceptInsecureCerts(true);
             WebDriverManager.chromedriver().setup();
-            ChromeDriver driver = new ChromeDriver(options);
+            ChromeDriver driver = new ChromeDriver(option);
 
             driver.get(url);
             return driver;
