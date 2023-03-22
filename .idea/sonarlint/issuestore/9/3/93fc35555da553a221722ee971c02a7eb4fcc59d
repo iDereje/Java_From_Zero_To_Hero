@@ -1,10 +1,0 @@
-
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ןרü‰ÿÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(¶ּבָ
-]
-java:S1128";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ןµ”‏ÿÿÿÿ8ואהצמ0
-a
-java:S1128"?Remove this unused import 'org.openqa.selenium.support.FindBy'.(¶÷´ישÿÿÿÿ8זאהצמ0
-E
-java:S1068
-"*Remove this unused "driver" private field.(…ֵרÿÿÿÿ
