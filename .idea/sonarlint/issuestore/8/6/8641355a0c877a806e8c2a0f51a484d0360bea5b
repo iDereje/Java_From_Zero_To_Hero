@@ -1,0 +1,25 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íÜ¤ö
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øÔ˜õ
+Y
+java:S1854">Remove this useless assignment to local variable "subString2".(¼“àÿÿÿÿÿ
+T
+java:S1854">Remove this useless assignment to local variable "subString1".(ê½ûª
+O
+java:S1854"9Remove this useless assignment to local variable "index".(ğÓ¹ç
+T
+java:S1854
+">Remove this useless assignment to local variable "lenOfHaifa".(½ÿ¯ê
+]
+java:S1854"BRemove this useless assignment to local variable "lengthOfString".(ñÇ—İûÿÿÿÿ
+N
+java:S1481"3Remove this unused "lengthOfString" local variable.(ñÇ—İûÿÿÿÿ
+E
+java:S1481
+"/Remove this unused "lenOfHaifa" local variable.(½ÿ¯ê
+@
+java:S1481"*Remove this unused "index" local variable.(ğÓ¹ç
+E
+java:S1481"/Remove this unused "subString1" local variable.(ê½ûª
+J
+java:S1481"/Remove this unused "subString2" local variable.(¼“àÿÿÿÿÿ
