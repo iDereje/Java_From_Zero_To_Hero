@@ -40,4 +40,5 @@ The following table provides an overview of the Java topics covered in this repo
 
 ## Contact
 
-If you have any questions or feedback about this repository, please feel free to reach out to us at derejeisack@gmail.com. We appreciate your interest in learning Java and look forward to hearing from you!
+If you have any questions or feedback about this repository, 
+please feel free to reach out to me at derejeisack@gmail.com. I appreciate your interest in learning Java and look forward to hearing from you!
