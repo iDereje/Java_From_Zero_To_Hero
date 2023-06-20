@@ -1,4 +1,3 @@
-
 # Java from Zero to Hero
 
 Welcome to the Java from Zero to Hero repository! This repository contains a collection of resources for learning Java, including code examples and explanations of important Java topics.
@@ -9,6 +8,7 @@ To clone this repository to your local machine, simply run the following command
 
 ```
 git clone https://github.com/DavidDereje/Java_From_Zero_To_Hero
+```
 
 ## How to Contribute
 
